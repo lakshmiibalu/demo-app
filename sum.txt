@@ -2,3 +2,8 @@ a = 20
 b = 5
 c = a+b
 print(c)
+
+k = 1
+h=4
+d = h-k
+print(d)

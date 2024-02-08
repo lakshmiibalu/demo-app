@@ -4,6 +4,6 @@ c = a+b
 print(c)
 
 k = 1
-h=4
+h = 4
 d = h-k
 print(d)

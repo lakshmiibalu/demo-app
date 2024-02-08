@@ -1,4 +1,4 @@
-x =7
+x = 7
 y = 8
 k = x*y
 print(k)
